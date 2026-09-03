@@ -117,4 +117,5 @@ Reporte_Inventario.txt → se genera cuando pides imprimir el listado
 El proyecto resuelve completamente el problema planteado: digitalizar el inventario con persistencia propia, controles seguros, alertas de utilidad práctica y documentos listos para entregar. Combina todos los temas vistos: arreglos, descomposición en procesos independientes, entradas seguras y manejo de archivos externos.
 
 **https://github.com/jazzvg02-bot/Jazmin_Viera_Gonzales.git**
+
 **https://www.youtube.com/watch?v=JNzsqqmXNXE**
